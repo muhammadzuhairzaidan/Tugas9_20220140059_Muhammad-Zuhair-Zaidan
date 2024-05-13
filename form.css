@@ -1,0 +1,33 @@
+body{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+}
+
+header{
+    text-align: center;
+    background-color: #3498c3;
+}
+fieldset{
+    text-align: center;
+    
+}
+form{
+    width: 100px;
+    text-align: center;
+}
+legend{
+    text-align: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.back, a{
+    margin-top: 5px;
+    background-color: black;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
